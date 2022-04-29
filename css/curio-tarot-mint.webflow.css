@@ -949,7 +949,7 @@
     position: fixed;
     left: 0px;
     z-index: 25;
-    width: 50vw;
+    width: 100vw;
     height: 100vh;
     top: 0;
   }        
